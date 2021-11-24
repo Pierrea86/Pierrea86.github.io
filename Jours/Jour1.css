@@ -1,0 +1,150 @@
+
+/************Vocal***********/
+
+.vocal{
+  margin: auto;
+}
+
+.boxvocal{
+    text-align: center;
+    background-color: #f2f5d5;
+    width: 600px;
+    height: 80px;
+    padding: 20px;
+    border: 5px solid gray;
+    margin: auto;
+    border-radius: 25px;
+}
+
+.boxvocal h1{
+    font-size: 25px;
+}
+
+/************Page principale***********/
+
+#Bloc_page{
+    width: 99.9%;
+    margin: auto;
+}
+
+h2{
+    text-align: center;
+}
+
+html{
+    font-family: 'ZCOOL XiaoWei', serif !important;
+  }
+  .first {
+    background-image: url(../images/Fond\ jours.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:700px;
+    color: white;
+    margin: auto;
+  }
+  
+  .first h1 {
+    color: white;
+  }
+  
+  .firt a {
+    color: white !important;
+  }
+  
+  .first li a{
+    color: white;
+  }
+  
+   .pink{
+     background-color: #b62b52;
+   }
+  
+   .green{
+     background-color: #769d2a;
+   }
+  
+   .teal {
+      background-color: #01a0a6;
+   }
+  
+   a h2 {
+     color: white;
+   }
+  
+  a:hover {
+   text-decoration: none;
+    }
+  
+    .first .pink, .first .pic, .first .green{
+     padding-right: 0px !important;
+     padding-left: 0px!important;
+    }
+  
+    .green a, .pink a, .teal a{
+      padding: 6%;
+    }
+  
+  
+  .what_to_do h2{
+    padding: 2%;
+    color: black;
+  }
+  .what_to_do i{
+      font-size: 40px;
+  }
+  .what_to_do div {
+      padding: 3%;
+      color: #222828;
+  }
+  
+  .what_to_do button,.four button{
+    background-color: transparent;
+    border-radius: 6px;
+    padding: 3%;
+  }
+  
+  .what_to_do button a{
+    color:  #222828;
+    font-variant: all-petite-caps;
+  }
+  
+  .people{
+    border-top: 1px solid white;
+  }
+  
+  .people img{
+    padding: 6%;
+    width: 100%;
+    height: 300px;
+  }
+  
+  .letter{
+    background-image: url(images/letter.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    color: white;
+  
+  }
+  
+  .letter button a{
+    color: black;
+  }
+  
+  .letter h1{
+    padding-top: 4%;
+  }
+  
+  .letter button {
+    background-color: white;
+  font-size: 20px;
+  border-radius: 5px;
+  font-variant-caps: all-petite-caps;
+  }
+  
+  footer {
+    background-color: black;
+    color:white;
+    padding: 4%;
+  }
+  
