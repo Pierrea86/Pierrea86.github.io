@@ -17,7 +17,7 @@ li {
     list-style-type: none;
 }
  
-a{   z-index: 1002;
+a{   z-index: 1000;
      text-decoration: none;
      color: black;
  }
