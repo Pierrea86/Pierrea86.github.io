@@ -213,7 +213,7 @@ header li a{
 }
 
 .button:hover {
-    background-color: #f44336;
+    background-color: gray;
     color: white;
 }
   
