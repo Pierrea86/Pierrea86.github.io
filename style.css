@@ -211,6 +211,9 @@ header li a{
     border-radius: 5px;
 
 }
+.button a{
+    color: black;
+}
 
 .button:hover {
     background-color: gray;
